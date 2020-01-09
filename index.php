@@ -28,7 +28,7 @@ include 'inc/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="text-color-pink"> <text class="up-down-border">About</text> <text class="bordered-text">Impact Break</text> </h2>
+                    <h2 class="text-color-pink"> <text class="up-down-border-pink">All About</text> <text class="bordered-text-pink">Impact Break</text> </h2>
                     <!-- <div class="p-heading p-large">Leno was designed based on input from personal development coaches and popular trainers so it offers all</div> -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -103,143 +103,137 @@ include 'inc/header.php';
     </div> <!-- end of tabs -->
     <!-- end of features -->
 
-
-    <!-- Video -->
-    <div id="preview" class="basic-1">
+    <!-- venue -->
+    <div id="details" style="margin-top: 100px; margin-bottom: 100px">
+      <h2 class="text-color-blue text-center"> <text class="up-down-border-blue">Check Our</text> <text class="bordered-text-blue">Venues</text> </h2>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <h2>PREVIEW</h2>
-                    <div class="p-heading p-large">Target the right customers for your business with the help of Leno's patented segmentation technology</div>
+                <div class="col-lg-6">
+                    <div class="venue-card" style="background-image: url(img/hotel_para.webp)">
+                      <img src="img/mexico.png" class="venue-flag" alt="">
+                    </div>
+                    <div class="venue-card-text">
+                      <h4> Hotel Paradisus, Cancun, Mexico </h4>
+                      <h5> <i> 7th - 10th May, 2020 </i> </h5>
+                      <a class="btn-solid-vn page-scroll" href="#your-link">View Location</a>
+                    </div>
                 </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Video Preview -->
-                    <div class="image-container">
-                        <div class="video-wrapper">
-                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
-                                <img class="img-fluid" src="images/video-frame.jpg" alt="alternative">
-                                <span class="video-play-button">
-                                    <span></span>
-                                </span>
-                            </a>
-                        </div> <!-- end of video-wrapper -->
-                    </div> <!-- end of image-container -->
-                    <!-- end of video preview -->
-
+                <div class="col-lg-6">
+                  <div class="venue-card" style="background-image: url(img/crown_plaza.jpg)">
+                    <img src="img/jordan.png" class="venue-flag" alt="">
+                  </div>
+                  <div class="venue-card-text">
+                    <h4> Crown Plaza, Dead Sea, Jordan </h4>
+                    <h5> <i> 28th - 31th May, 2020 </i> </h5>
+                    <a class="btn-solid-vn page-scroll" href="#your-link">View Location</a>
+                  </div>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of video -->
+    </div> <!-- end of basic-2 -->
+    <!-- venue -->
 
 
     <!-- Details 1 -->
     <div id="details" class="basic-2">
+      <!-- <h2 class="text-color-blue text-center"> <text class="up-down-border-blue">Our</text> <text class="bordered-text-blue">Values</text> </h2> -->
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <img class="img-fluid" src="images/details-1-iphone.png" alt="alternative">
-                </div> <!-- end of col -->
-                <div class="col-lg-6">
-                    <div class="text-container">
-                        <h3>Goals Setting</h3>
-                        <p>Leno can easily help you track your personal development evolution if you take the time to properly setup your goals at the beginning of the training process. Check out the details</p>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">LIGHTBOX</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>30+</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-lightbulb fa-3x ml-auto"></i>
+                    </div>
+                  </div>
+                  <h5>CEOs & Pioneers Inspiring Our Participents</h5>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>40,000+</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-globe fa-3x"></i>
+                    </div>
+                  </div>
+                  <h5>Viewers in digital platforms and social media</h5>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>250</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-hourglass-half fa-3x"></i>
+                    </div>
+                  </div>
+                  <h5>Workshops hours given by CEOs and rockstar speakers</h5>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>1,200+</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-graduation-cap fa-3x"></i>
+                    </div>
+                  </div>
+                  <h5>Universities perticipating globally</h5>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>1,500+</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-users fa-3x"></i>
+                    </div>
+                  </div>
+                  <h5>Young changemakers around the world</h5>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="value-card">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h1>3,000+</h1>
+                    </div>
+                    <div class="col-md-6 text-right value-icon">
+                      <i class="fas fa-trophy fa-3x"></i>
+                    </div>
+                  </div>
+                  <h5>USD in prizes and compititions</h5>
+                </div>
+              </div>
+
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-2 -->
     <!-- end of details 1 -->
 
 
-    <!-- Details 2 -->
-    <div class="basic-3">
-        <div class="second">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="text-container">
-                            <h3>Calendar Input</h3>
-                            <p>The calendar input function enables the user to setup training, meditation and relaxation sessions with ease. Just open the feature and start setting up your time as you desire</p>
-                            <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2">LIGHTBOX</a>
-                        </div> <!-- end of text-container -->
-                    </div> <!-- end of col -->
-                    <div class="col-lg-6">
-                        <img class="img-fluid" src="images/details-2-iphone.png" alt="alternative">
-                    </div> <!-- end of col -->
-                </div> <!-- end of row -->
-            </div> <!-- end of container -->
-        </div> <!-- end of second -->
-    </div> <!-- end of basic-3 -->
-    <!-- end of details 2 -->
-
-
-    <!-- Details Lightboxes -->
-	<!-- Lightbox -->
-	<div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
-		<div class="row">
-			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-			<div class="col-lg-6">
-				<img class="img-fluid" src="images/details-lightbox-1.png" alt="alternative">
-			</div>
-			<div class="col-lg-6">
-				<h3>Goals Setting</h3>
-				<hr>
-                <p>Leno can easily help you track your personal development evolution if you take the time to set it up.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity levels.</p>
-                <p>You should definitely give it a try when you need a good app.</p>
-				<table>
-					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>Responsive layout</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Image gallery slider</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>Contact forms</td></tr>
-					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>FontAwesome icons</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>Well-structured code</td></tr>
-				</table>
-				<a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#details">BACK</a>
-			</div>
-		</div> <!-- end of row -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-
-    <!-- Lightbox -->
-    <div id="details-lightbox-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
-		<div class="row">
-			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-			<div class="col-lg-6">
-				<img class="img-fluid" src="images/details-lightbox-2.png" alt="alternative">
-			</div>
-			<div class="col-lg-6">
-				<h3>Calendar Input</h3>
-				<hr>
-                <p>The calendar input function enables the user to setup training, meditation and relaxation sessions with ease.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity levels.</p>
-                <p>You should definitely give it a try when you need a good app.</p>
-				<table>
-					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>Responsive layout</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Image gallery slider</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>Contact forms</td></tr>
-					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>FontAwesome icons</td></tr>
-					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>Well-structured code</td></tr>
-				</table>
-				<a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#details">BACK</a>
-			</div>
-		</div> <!-- end of row -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightboxes -->
-
-
     <!-- Screenshots -->
     <div class="slider-2">
         <div class="container">
+          <h4 class="text-color-blue text-center"> <text class="up-down-border-blue">With the</text> <text class="bordered-text-blue">Suport of</text> </h4>
             <div class="row">
                 <div class="col-lg-12">
 
@@ -250,80 +244,56 @@ include 'inc/header.php';
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-1.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-1.png" alt="alternative">
+                                    <a href="img/hp.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/hp.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-2.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-2.png" alt="alternative">
+                                    <a href="img/edu.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/edu.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-3.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-3.png" alt="alternative">
+                                    <a href="img/united.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/united.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-4.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-4.png" alt="alternative">
+                                    <a href="img/change.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/change.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-5.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-5.png" alt="alternative">
+                                    <a href="img/campus.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/campus.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-6.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-6.png" alt="alternative">
+                                    <a href="img/clinton.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/clinton.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <a href="images/screenshot-7.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-7.png" alt="alternative">
-                                    </a>
-                                </div>
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <a href="images/screenshot-8.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-8.png" alt="alternative">
-                                    </a>
-                                </div>
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <a href="images/screenshot-9.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-9.png" alt="alternative">
-                                    </a>
-                                </div>
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <a href="images/screenshot-10.png" class="popup-link" data-effect="fadeIn">
-                                        <img class="img-fluid" src="images/screenshot-10.png" alt="alternative">
+                                    <a href="img/unicorn.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="img/unicorn.png" alt="alternative">
                                     </a>
                                 </div>
                                 <!-- end of slide -->
@@ -350,111 +320,33 @@ include 'inc/header.php';
     <div class="basic-4">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-xl-5">
-                    <div class="text-container">
-                        <h2>Download <span class="blue">Leno</span></h2>
-                        <p class="p-large">Target the right customers for your business with the help of Leno's patented technology and increase conversion figures in less than 2 weeks</p>
-                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-apple"></i>APP STORE</a>
-                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-google-play"></i>PLAY STORE</a>
+              <div class="col-lg-6">
+                  <div class="image-container">
+                      <img class="img-fluid ready-img" src="img/ahmed2.jpg" alt="alternative">
+                  </div> <!-- end of img-container -->
+              </div> <!-- end of col -->
+                <div class="col-lg-6">
+                    <div class="ready-text">
+                        <h1 class="text-color-pink">
+                          Team up <br>
+                          Get ready <br>
+                          Fight on <br>
+                        </h1>
+                        <h4 class="text-color-pink">
+                          For the mega event globally to make the world a batter place for living in this year!
+                        </h4>
+                        <hr class="hr-pink">
+                        <p class="p-large"> <i class="text-color-pink">7th - 10th May, Mexico</i> </p>
+                        <hr class="hr-pink">
+                        <p class="p-large"> <i class="text-color-pink">28h - 31th May, Jordan</i> </p>
+                        <a class="btn-solid-rg-header page-scroll" href="#your-link">REGISTER NOW</a>
                     </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-6 col-xl-7">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/download.png" alt="alternative">
-                    </div> <!-- end of img-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-4 -->
     <!-- end of download -->
 
-
-    <!-- Statistics -->
-    <div class="counter">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Counter -->
-                    <div id="counter">
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="231">1</div>
-                            <p class="counter-info">Happy Users</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="85">1</div>
-                            <p class="counter-info">Issues Solved</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="59">1</div>
-                            <p class="counter-info">Good Reviews</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="127">1</div>
-                            <p class="counter-info">Case Studies</p>
-                        </div>
-                    </div>
-                    <!-- end of counter -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of counter -->
-    <!-- end of statistics -->
-
-
-    <!-- Contact -->
-    <div id="contact" class="form">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2>CONTACT</h2>
-                    <ul class="list-unstyled li-space-lg">
-                        <li class="address">Don't hesitate to give us a call or just use the contact form below</li>
-                        <li><i class="fas fa-map-marker-alt"></i>22 Innovative, San Francisco, CA 94043, US</li>
-                        <li><i class="fas fa-phone"></i><a class="blue" href="tel:003024630820">+81 720 2212</a></li>
-                        <li><i class="fas fa-envelope"></i><a class="blue" href="mailto:office@leno.com">office@leno.com</a></li>
-                    </ul>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-
-                    <!-- Contact Form -->
-                    <form id="contactForm" data-toggle="validator" data-focus="false">
-                        <div class="form-group">
-                            <input type="text" class="form-control-input" id="cname" required>
-                            <label class="label-control" for="cname">Name</label>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control-input" id="cemail" required>
-                            <label class="label-control" for="cemail">Email</label>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <textarea class="form-control-textarea" id="cmessage" required></textarea>
-                            <label class="label-control" for="cmessage">Your message</label>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group checkbox">
-                            <input type="checkbox" id="cterms" value="Agreed-to-Terms" required>I have read and agree to Leno's stated conditions in <a href="privacy-policy.php">Privacy Policy</a> and <a href="terms-conditions.php">Terms Conditions</a>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">SUBMIT MESSAGE</button>
-                        </div>
-                        <div class="form-message">
-                            <div id="cmsgSubmit" class="h3 text-center hidden"></div>
-                        </div>
-                    </form>
-                    <!-- end of contact form -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of form -->
-    <!-- end of contact -->
 
     <?php
 

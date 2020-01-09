@@ -77,9 +77,6 @@
                 </li>
                 <!-- end of dropdown menu -->
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#features">Workshops</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link page-scroll" href="#preview">Compititions</a>
                 </li>
                 <li class="nav-item">
@@ -87,12 +84,6 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="#preview">Agenda</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#preview">Speakers</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#contact">CONTACT</a>
                 </li>
                 <li class="nav-item">
                     <a class="btn-solid-rg page-scroll" href="#your-link">REGISTER NOW</a>

@@ -3,3 +3,5 @@ rgb(236, 0, 140)
 navbar color: rgb(46, 46, 46)
 
 blue color: rgb(30, 157, 237);
+
+halka darkish blue: rgb(47, 44, 61);
