@@ -55,12 +55,16 @@ include 'inc/header.php';
                     <!-- Tab -->
                     <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
                         <div class="container">
-                            <div class="row text-center text-color-dark">
-
-                              <i>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                              </i>
-
+                            <div class="row text-about text-color-dark">
+                              <div class="col-md-10 border-left-about">
+                                <i>
+                                  Lorem ipsum dolor sit amet, <b>consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <hr>
+                                  1500+ Lorem <i class="text-color-pink">ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</i> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru
+                                </i>
+                              </div>
+                              <div class="col-md-2 icon-off">
+                                <i class="far fa-comment-alt fa-10x text-color-pink"></i>
+                              </div>
                             </div> <!-- end of row -->
                         </div> <!-- end of container -->
                     </div> <!-- end of tab-pane -->
@@ -69,14 +73,18 @@ include 'inc/header.php';
                     <!-- Tab -->
                     <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
                         <div class="container">
-                            <div class="row text-center text-color-dark">
-
-                              <i>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                              </i>
-
+                          <div class="row text-about text-color-dark">
+                            <div class="col-md-2 icon-off">
+                              <i class="far fa-file-alt fa-10x text-color-pink"></i>
                             </div>
+                            <div class="col-md-10 border-right-about">
+                              <i>
+                                <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                <hr>
+                                 <i class="text-color-pink">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </i>
+                              </i>
+                            </div>
+                          </div> <!-- end of row -->
                         </div> <!-- end of container -->
                     </div> <!-- end of tab-pane -->
                     <!-- end of tab -->
@@ -84,13 +92,18 @@ include 'inc/header.php';
                     <!-- Tab -->
                     <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
                         <div class="container">
-                            <div class="row text-center text-color-dark">
-
+                          <div class="row text-about text-color-dark">
+                            <div class="col-md-10 border-left-about">
                               <i>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                <hr>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <i class="text-color-pink">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </i>
                               </i>
-
                             </div>
+                            <div class="col-md-2 icon-off">
+                              <i class="far fa-user fa-10x text-color-pink"></i>
+                            </div>
+                          </div> <!-- end of row -->
                         </div> <!-- end of container -->
                     </div><!-- end of tab-pane -->
                     <!-- end of tab -->
