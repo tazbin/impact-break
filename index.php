@@ -3,7 +3,7 @@ include 'inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header">
+    <header id="header" class="header" style="background-image: url('img/2.png'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">

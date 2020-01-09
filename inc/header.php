@@ -64,26 +64,26 @@
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#header">HOME <span class="sr-only">(current)</span></a>
+                    <a class="nav-link page-scroll" href="index.php">HOME <span class="sr-only">(current)</span></a>
                 </li>
                 <!-- Dropdown Menu -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle page-scroll" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="terms-conditions.php"><span class="item-text">Cancun</span></a>
+                        <a class="dropdown-item" href="terms-conditions.php"><span class="item-text">CANCUN</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.php"><span class="item-text">Dead Sea</span></a>
+                        <a class="dropdown-item" href="privacy-policy.php"><span class="item-text">DEAD SEA</span></a>
                     </div>
                 </li>
                 <!-- end of dropdown menu -->
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#preview">Compititions</a>
+                    <a class="nav-link page-scroll" href="compititions.php">COMPETITIONS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#preview">Organizers</a>
+                    <a class="nav-link page-scroll" href="organizers.php">ORGANIZERS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#preview">Agenda</a>
+                    <a class="nav-link page-scroll" href="#preview">AGENDA</a>
                 </li>
                 <li class="nav-item">
                     <a class="btn-solid-rg page-scroll" href="#your-link">REGISTER NOW</a>
