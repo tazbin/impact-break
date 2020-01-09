@@ -118,28 +118,14 @@ include 'inc/header.php';
 
     <!-- venue -->
     <div id="details" style="margin-top: 100px; margin-bottom: 100px">
-      <h2 class="text-color-blue text-center"> <text class="up-down-border-blue">Check Our</text> <text class="bordered-text-blue">Venues</text> </h2>
+      <h2 class="text-color-blue text-center venue-title"> <text class="up-down-border-blue">Check Our</text> <text class="bordered-text-blue">Venues</text> </h2>
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <div class="venue-card" style="background-image: url(img/hotel_para.webp)">
-                      <img src="img/mexico.png" class="venue-flag" alt="">
-                    </div>
-                    <div class="venue-card-text">
-                      <h4> Hotel Paradisus, Cancun, Mexico </h4>
-                      <h5> <i> 7th - 10th May, 2020 </i> </h5>
-                      <a class="btn-solid-vn page-scroll" href="#your-link">View Location</a>
-                    </div>
+                <div class="col-md-6 vn-taz">
+                    <img src="img/venue1.png" class="venue-img d-flex" alt="">
                 </div> <!-- end of col -->
-                <div class="col-lg-6">
-                  <div class="venue-card" style="background-image: url(img/crown_plaza.jpg)">
-                    <img src="img/jordan.png" class="venue-flag" alt="">
-                  </div>
-                  <div class="venue-card-text">
-                    <h4> Crown Plaza, Dead Sea, Jordan </h4>
-                    <h5> <i> 28th - 31th May, 2020 </i> </h5>
-                    <a class="btn-solid-vn page-scroll" href="#your-link">View Location</a>
-                  </div>
+                <div class="col-md-6">
+                    <img src="img/venue2.png" class="venue-img" alt="">
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
