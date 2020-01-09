@@ -1,4 +1,5 @@
 <?php
+$page = "agenda";
 include 'inc/header.php';
  ?>
 

@@ -1,4 +1,5 @@
 <?php
+$page = "home";
 include 'inc/header.php';
  ?>
 
@@ -315,7 +316,7 @@ include 'inc/header.php';
     <!-- end of screenshots -->
 
 
-    <!-- Download -->
+    <!-- team up -->
     <div class="basic-4">
         <div class="container">
             <div class="row">
@@ -344,7 +345,7 @@ include 'inc/header.php';
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-4 -->
-    <!-- end of download -->
+    <!-- end of team up -->
 
 
     <?php

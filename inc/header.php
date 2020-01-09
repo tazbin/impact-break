@@ -64,26 +64,26 @@
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="index.php">HOME <span class="sr-only">(current)</span></a>
+                    <a class="nav-link page-scroll <?php echo $page=='home'? 'active': ''; ?>" href="index.php">HOME</a>
                 </li>
                 <!-- Dropdown Menu -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle page-scroll" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
+                    <a class="nav-link dropdown-toggle page-scroll <?php echo $page=='programs'? 'active': ''; ?>" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="terms-conditions.php"><span class="item-text">CANCUN</span></a>
+                        <a class="dropdown-item" href="cancun.php"><span class="item-text">CANCUN</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.php"><span class="item-text">DEAD SEA</span></a>
+                        <a class="dropdown-item" href="dead-sea.php"><span class="item-text">DEAD SEA</span></a>
                     </div>
                 </li>
                 <!-- end of dropdown menu -->
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="compititions.php">COMPETITIONS</a>
+                    <a class="nav-link page-scroll <?php echo $page=='competitions'? 'active': ''; ?>" href="compititions.php">COMPETITIONS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="organizers.php">ORGANIZERS</a>
+                    <a class="nav-link page-scroll <?php echo $page=='organizers'? 'active': ''; ?>" href="organizers.php">ORGANIZERS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="agenda.php">AGENDA</a>
+                    <a class="nav-link page-scroll <?php echo $page=='agenda'? 'active': ''; ?>" href="agenda.php">AGENDA</a>
                 </li>
                 <li class="nav-item">
                     <a class="btn-solid-rg page-scroll" href="#your-link">REGISTER NOW</a>

@@ -1,4 +1,5 @@
 <?php
+$page = "competitions";
 include 'inc/header.php';
  ?>
 

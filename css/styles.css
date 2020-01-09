@@ -88,7 +88,11 @@ body, p {
 }
 
 .hr-blue{
-  border-color: rgb(30, 157, 237););
+  border-color: rgb(30, 157, 237);
+}
+
+.hr-white{
+  border-color: white;
 }
 
 .text-color-pink{
@@ -292,6 +296,43 @@ background-color: rgb(217, 217, 217);
   max-height: 180px;
 }
 /* agenda section */
+
+/* program section */
+.program{
+  margin-top: -100px;
+}
+
+.program-card-1{
+  width: 100%;
+}
+
+.program-card-2{
+  color: rgb(88, 88, 88);
+  width: 100%;
+  height: 200px;
+  margin: 5px;
+  border-radius: 5px;
+  /* border: 1px solid rgb(30, 157, 237); */
+  background-color: rgb(0, 155, 176);
+}
+
+.program-card-2 h6{
+  color: white;
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+.program-card-2 p{
+  color: white
+}
+
+.program-img{
+  width: 100%;
+  height: 420px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+/* program section */
 
 /* oraganizattion section */
 .or-card{

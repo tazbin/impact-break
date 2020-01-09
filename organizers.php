@@ -1,4 +1,5 @@
 <?php
+$page = "organizers";
 include 'inc/header.php';
  ?>
 
