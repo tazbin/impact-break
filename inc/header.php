@@ -83,7 +83,7 @@
                     <a class="nav-link page-scroll" href="organizers.php">ORGANIZERS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#preview">AGENDA</a>
+                    <a class="nav-link page-scroll" href="agenda.php">AGENDA</a>
                 </li>
                 <li class="nav-item">
                     <a class="btn-solid-rg page-scroll" href="#your-link">REGISTER NOW</a>

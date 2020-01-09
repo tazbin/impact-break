@@ -222,6 +222,77 @@ background-color: rgb(217, 217, 217);
 }
 /* values section */
 
+/* agenda section */
+.agenda{
+  color: rgb(71, 71, 71);
+  margin: auto;
+}
+
+.agenda-card-1{
+  width: 100%;
+  margin-left: 5px;
+  padding: 10px;
+  border: 2px solid rgb(236, 0, 140);
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.agenda-card-1:hover{
+  background-color: rgb(236, 0, 140);
+  color: white;
+}
+
+.agenda-card-2{
+  width: 100%;
+  margin-left: 20px;
+  padding: 10px;
+  border: 2px solid rgb(30, 157, 237);
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.agenda-card-2:hover{
+  background-color: rgb(30, 157, 237);
+  color: white;
+}
+
+.agenda-col{
+  border-left: 1px solid rgba(236, 0, 140, 0.18);
+}
+
+.agenda-title-pink{
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  background-color: rgb(236, 0, 140);
+  color: white;
+  height: 50px;
+  margin: 10px 10px 20px 0px;
+  padding: 10px;
+  width: 50%;
+}
+
+.agenda-title-blue{
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  background-color: rgb(30, 157, 237);
+  color: white;
+  height: 50px;
+  margin: 10px 10px 20px 0px;
+  padding: 10px;
+  width: 50%;
+}
+
+.agenda-img{
+  width: 100%;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(236, 0, 140);
+  max-height: 180px;
+}
+/* agenda section */
+
 /* oraganizattion section */
 .or-card{
   width: 100%;

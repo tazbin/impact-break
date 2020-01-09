@@ -5,7 +5,7 @@
 
           <div class="col-md-4">
               <div class="footer-col last">
-                  <img src="img/impact-logo.png" alt="Impact Break" style="width: 120px">
+                  <img src="img/impact-logo.png" alt="Impact Break" style="width: 127px">
                   <hr class="hr-pink">
                   <p style="font-size: 12px">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco .</p>
                   <span class="fa-stack">
