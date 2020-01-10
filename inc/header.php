@@ -1,3 +1,6 @@
+<?php
+  include 'base.php';
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,13 +38,13 @@
 <body data-spy="scroll" data-target=".fixed-top">
 
     <!-- Preloader -->
-	<div class="spinner-wrapper">
+	<!-- <div class="spinner-wrapper">
         <div class="spinner">
             <div class="bounce1"></div>
             <div class="bounce2"></div>
             <div class="bounce3"></div>
         </div>
-    </div>
+    </div> -->
     <!-- end of preloader -->
 
 
@@ -68,7 +71,7 @@
                 </li>
                 <!-- Dropdown Menu -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle page-scroll <?php echo $page=='programs'? 'active': ''; ?>" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
+                    <a class="nav-link dropdown-toggle page-scroll <?php echo $page=='programs'? 'active': ''; ?>" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="cancun.php"><span class="item-text">CANCUN</span></a>
                         <div class="dropdown-items-divide-hr"></div>

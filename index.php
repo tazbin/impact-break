@@ -143,10 +143,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>30+</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-lightbulb fa-3x ml-auto"></i>
                     </div>
                   </div>
@@ -157,10 +157,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>40,000+</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-globe fa-3x"></i>
                     </div>
                   </div>
@@ -171,10 +171,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>250</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-hourglass-half fa-3x"></i>
                     </div>
                   </div>
@@ -185,10 +185,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>1,200+</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-graduation-cap fa-3x"></i>
                     </div>
                   </div>
@@ -199,10 +199,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>1,500+</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-users fa-3x"></i>
                     </div>
                   </div>
@@ -213,10 +213,10 @@ include 'inc/header.php';
               <div class="col-md-4">
                 <div class="value-card">
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-6">
                       <h1>3,000+</h1>
                     </div>
-                    <div class="col-md-6 text-right value-icon">
+                    <div class="col-6 text-right value-icon">
                       <i class="fas fa-trophy fa-3x"></i>
                     </div>
                   </div>
