@@ -193,9 +193,9 @@ body, p {
   width: 100%;
   min-height: 160px;
   border-radius: 20px;
-  box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
+  /* box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
 -webkit-box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
--moz-box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
+-moz-box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75); */
 padding: 10px;
 padding-top: 20px;
 padding-left: 20px;
@@ -209,9 +209,13 @@ background-color: rgb(217, 217, 217);
   width: 100%;
   /* height: 160px; */
   border-radius: 20px;
-  box-shadow: 10px 10px 52px -29px rgba(30,157,237,0.75);
--webkit-box-shadow: 10px 10px 52px -29px rgba(30,157,237,0.75);
--moz-box-shadow: 10px 10px 52px -29px rgba(30,157,237,0.75);
+  box-shadow: 10px 10px 49px -6px rgba(255,255,255,0.75);
+-webkit-box-shadow: 10px 10px 49px -6px rgba(255,255,255,0.75);
+-moz-box-shadow: 10px 10px 49px -6px rgba(255,255,255,0.75);
+}
+
+.value-icon{
+  color: rgb(236, 0, 140);
 }
 
 .value-card:hover .value-icon{
@@ -455,9 +459,12 @@ background-color: rgb(242, 242, 242);
 }
 
 .judge-text:hover{
-  box-shadow: 10px 10px 40px 0px rgba(236,0,140,0.75);
+  /* box-shadow: 10px 10px 40px 0px rgba(236,0,140,0.75);
 -webkit-box-shadow: 10px 10px 40px 0px rgba(236,0,140,0.75);
--moz-box-shadow: 10px 10px 40px 0px rgba(236,0,140,0.75);
+-moz-box-shadow: 10px 10px 40px 0px rgba(236,0,140,0.75); */
+box-shadow: 7px 15px 68px -25px rgba(236,0,140,0.75);
+-webkit-box-shadow: 7px 15px 68px -25px rgba(236,0,140,0.75);
+-moz-box-shadow: 7px 15px 68px -25px rgba(236,0,140,0.75);
 }
 
 .judge-text{
@@ -602,7 +609,8 @@ a.white {
 /* nav regi button */
 .btn-solid-rg {
 	display: inline-block;
-	padding: 18px 25px 18px 25px;
+	padding: 14px 25px 14px 25px;
+  margin-top: 4px;
 	border: 0.125rem solid rgb(236, 0, 140);
 	border-radius: 2rem;
 	background-color: rgb(236, 0, 140);

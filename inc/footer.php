@@ -5,7 +5,7 @@
 
           <div class="col-md-4">
               <div class="footer-col last">
-                  <img src="img/impact-logo.png" alt="Impact Break" style="width: 127px">
+                  <img src="<?php echo BASE_URL ?>/img/impact-logo.png" alt="Impact Break" style="width: 127px">
                   <hr class="hr-pink">
                   <p style="font-size: 12px">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco .</p>
                   <span class="fa-stack">
@@ -48,19 +48,19 @@
                     <ul class="list-unstyled li-space-lg">
                         <li class="media">
                             <i class="fas fa-square"></i>
-                            <div class="media-body"><a class="turquoise" href="#your-link">Cancun Program</a></div>
+                            <div class="media-body"><a class="turquoise" href="<?php echo BASE_URL ?>/cancun">Cancun Program</a></div>
                         </li>
                         <li class="media">
                             <i class="fas fa-square"></i>
-                            <div class="media-body"> <a class="turquoise" href="terms-conditions.php">Dead Sea Program</a></div>
+                            <div class="media-body"> <a class="turquoise" href="<?php echo BASE_URL ?>/dead-sea">Dead Sea Program</a></div>
                         </li>
                         <li class="media">
                             <i class="fas fa-square"></i>
-                            <div class="media-body"> <a class="turquoise" href="terms-conditions.php">Compitition</a></div>
+                            <div class="media-body"> <a class="turquoise" href="<?php echo BASE_URL ?>/competitions">Competition</a></div>
                         </li>
                         <li class="media">
                             <i class="fas fa-square"></i>
-                            <div class="media-body"> <a class="turquoise" href="terms-conditions.php">Agenda</a></div>
+                            <div class="media-body"> <a class="turquoise" href="<?php echo BASE_URL ?>/agenda">Agenda</a></div>
                         </li>
                     </ul>
                 </div>
@@ -71,7 +71,7 @@
                     <h4>Stay with us</h4>
                     <hr class="hr-pink">
                     <!-- Contact Form -->
-                    <form id="contactForm" data-toggle="validator" data-focus="false">
+                    <form id="" data-toggle="validator" data-focus="false">
                         <div class="form-group">
                             <input type="email" class="form-control-input" id="cname" required>
                             <label class="label-control" for="cname">Your Email</label>
@@ -97,8 +97,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <p class="p-small">Copyright © Impact Break | Developed by <a href="http://tazbinur.info">Tazbinur Rahaman</a></p>
-            </div> <!-- end of col -->
-        </div> <!-- enf of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of copyright -->
+            </div>
+        </div>
+    </div>
+</div>
 <!-- end of copyright -->

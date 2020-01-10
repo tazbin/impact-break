@@ -26,14 +26,15 @@
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/fontawesome-all.css" rel="stylesheet">
-    <link href="css/swiper.css" rel="stylesheet">
-	<link href="css/magnific-popup.css" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
+    <link href="<?php echo BASE_URL ?>/css/bootstrap.css" rel="stylesheet">
+    <link href="<?php echo BASE_URL ?>/css/fontawesome-all.css" rel="stylesheet">
+    <link href="<?php echo BASE_URL ?>/css/swiper.css" rel="stylesheet">
+  	<link href="<?php echo BASE_URL ?>/css/magnific-popup.css" rel="stylesheet">
+  	<link href="<?php echo BASE_URL ?>/css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 	<!-- Favicon  -->
-    <link rel="icon" href="img/fav.jpg">
+    <link rel="icon" href="<?php echo BASE_URL ?>/img/fav.jpg">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 
@@ -55,7 +56,7 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.php"><img src="images/logo.svg" alt="alternative"></a> -->
-        <a class="navbar-brand logo-image" href="index.php"><img src="img/impact-logo.png" alt="Impact-Break"></a>
+        <a class="navbar-brand logo-image" href="<?php echo BASE_URL ?>/index.php"><img src="<?php echo BASE_URL ?>/img/impact-logo.png" alt="Impact-Break"></a>
 
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,29 +68,29 @@
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link page-scroll <?php echo $page=='home'? 'active': ''; ?>" href="index.php">HOME</a>
+                    <a class="nav-link page-scroll <?php echo $page=='home'? 'active': ''; ?>" href="<?php echo BASE_URL ?>/">HOME</a>
                 </li>
                 <!-- Dropdown Menu -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle page-scroll <?php echo $page=='programs'? 'active': ''; ?>" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="cancun.php"><span class="item-text">CANCUN</span></a>
+                        <a class="dropdown-item" href="<?php echo BASE_URL ?>/cancun"><span class="item-text">CANCUN</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="dead-sea.php"><span class="item-text">DEAD SEA</span></a>
+                        <a class="dropdown-item" href="<?php echo BASE_URL ?>/dead-sea"><span class="item-text">DEAD SEA</span></a>
                     </div>
                 </li>
                 <!-- end of dropdown menu -->
                 <li class="nav-item">
-                    <a class="nav-link page-scroll <?php echo $page=='competitions'? 'active': ''; ?>" href="compititions.php">COMPETITIONS</a>
+                    <a class="nav-link page-scroll <?php echo $page=='competitions'? 'active': ''; ?>" href="<?php echo BASE_URL ?>/competitions">COMPETITIONS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll <?php echo $page=='organizers'? 'active': ''; ?>" href="organizers.php">ORGANIZERS</a>
+                    <a class="nav-link page-scroll <?php echo $page=='organizers'? 'active': ''; ?>" href="<?php echo BASE_URL ?>/organizers">ORGANIZERS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll <?php echo $page=='agenda'? 'active': ''; ?>" href="agenda.php">AGENDA</a>
+                    <a class="nav-link page-scroll <?php echo $page=='agenda'? 'active': ''; ?>" href="<?php echo BASE_URL ?>/agenda">AGENDA</a>
                 </li>
                 <li class="nav-item">
-                    <a class="btn-solid-rg page-scroll" href="#your-link">REGISTER NOW</a>
+                    <a class="btn-solid-rg page-scroll animated pulse infinite" href="#your-link">REGISTER NOW</a>
                 </li>
             </ul>
         </div>

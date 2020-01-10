@@ -14,7 +14,7 @@ include 'inc/header.php';
                             <h1>A JOURNEY FOR <span id="js-rotating">FUN, INSPRIRATION, ACTION</span></h1>
                             <hr style="border-color: white">
                             <p class="p-large"> <i>See you in MAY 2020 | Mexico & Jordan</i> </p>
-                            <a class="btn-solid-rg-header page-scroll" href="#your-link">REGISTER NOW</a>
+                            <a class="btn-solid-rg-header animated pulse infinite" href="#your-link">REGISTER NOW</a>
                         </div>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
