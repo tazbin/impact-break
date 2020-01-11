@@ -176,7 +176,7 @@ include '../inc/header.php';
           </div> <!-- end of col -->
             <div class="row rule-section">
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-4">
                     <div class="judge-img" style="background-image: url('img/judges/tazbinur.webp')">
                       <div class="text-center judge-text">
                         <h4> Tazbinur Rahaman </h4>
@@ -185,7 +185,7 @@ include '../inc/header.php';
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-4">
                     <div class="judge-img" style="background-image: url('img/judges/taz.webp')">
                       <div class="text-center judge-text">
                         <h4> Tazbinur Rahaman </h4>
@@ -194,7 +194,7 @@ include '../inc/header.php';
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-4">
                     <div class="judge-img" style="background-image: url('img/judges/t.webp')">
                       <div class="text-center judge-text">
                         <h4> Tazbinur Rahaman </h4>
