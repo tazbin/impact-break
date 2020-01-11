@@ -1274,6 +1274,9 @@ input[type='checkbox'] {
 .header {
 	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), center no-repeat;
 	background-size: cover;
+  box-shadow: 10px 10px 39px -20px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 39px -20px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 39px -20px rgba(0,0,0,0.75);
 }
 
 .header .header-content {
