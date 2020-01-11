@@ -459,7 +459,8 @@ background-color: rgb(242, 242, 242);
   width: 100%;
   height: 400px;
   background-size: cover;
-  margin-top: 30px
+  margin-top: 30px;
+  padding-bottom: 30px;
 }
 
 .judge-text:hover{

@@ -76,32 +76,32 @@ include '../inc/header.php';
           </div> <!-- end of col -->
             <div class="row rule-section">
 
-                <div class="col-lg-4">
-                    <div class="judge-img" style="background-image: url('img/speaker/tazbinur.webp')">
-                      <div class="text-center judge-text">
-                        <h4> Tazbinur Rahaman </h4>
-                        <h6> CEO, Taz Inc. Ltd. </h6>
-                      </div>
+              <div class="col-lg-4 col-md-4">
+                  <div class="judge-img" style="background-image: url('img/speaker/tazbinur.webp')">
+                    <div class="text-center judge-text">
+                      <h4> Tazbinur Rahaman </h4>
+                      <h6> CEO, Taz Inc. Ltd. </h6>
                     </div>
-                </div>
+                  </div>
+              </div>
 
-                <div class="col-lg-4">
-                    <div class="judge-img" style="background-image: url('img/speaker/taz.webp')">
-                      <div class="text-center judge-text">
-                        <h4> Tazbinur Rahaman </h4>
-                        <h6> CEO, Taz Inc. Ltd. </h6>
-                      </div>
+              <div class="col-lg-4 col-md-4">
+                  <div class="judge-img" style="background-image: url('img/speaker/taz.webp')">
+                    <div class="text-center judge-text">
+                      <h4> Tazbinur Rahaman </h4>
+                      <h6> CEO, Taz Inc. Ltd. </h6>
                     </div>
-                </div>
+                  </div>
+              </div>
 
-                <div class="col-lg-4">
-                    <div class="judge-img" style="background-image: url('img/speaker/t.webp')">
-                      <div class="text-center judge-text">
-                        <h4> Tazbinur Rahaman </h4>
-                        <h6> CEO, Taz Inc. Ltd. </h6>
-                      </div>
+              <div class="col-lg-4 col-md-4">
+                  <div class="judge-img" style="background-image: url('img/speaker/t.webp')">
+                    <div class="text-center judge-text">
+                      <h4> Tazbinur Rahaman </h4>
+                      <h6> CEO, Taz Inc. Ltd. </h6>
                     </div>
-                </div>
+                  </div>
+              </div>
 
             </div> <!-- end of row -->
         </div> <!-- end of container -->
