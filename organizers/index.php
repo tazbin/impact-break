@@ -29,37 +29,37 @@ include '../inc/header.php';
         <div class="container">
 
           <div class="row or-card">
-              <div class="col-md-2 text-center">
+              <div class="col-lg-4 col-md-12 text-center">
                 <img src="img/hult.png" alt="" style="width: 100px">
               </div>
-              <div class="col-md-10 text-left or-divider">
+              <div class="col-lg-8 col-md-12 text-left or-divider">
                 <b class="text-color-pink">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </div>
           </div>
 
           <div class="row or-card">
-              <div class="col-md-2 text-center">
-                <img src="img/education.png" alt="" style="width: 130px; margin-top: 10px">
+              <div class="col-lg-4 col-md-12 text-center">
+                <img src="img/education.png" alt="" style="width: 130px; margin-top: 30px">
               </div>
-              <div class="col-md-10 text-left or-divider">
+              <div class="col-lg-8 col-md-12 text-left or-divider">
                 <b class="text-color-pink">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </div>
           </div>
 
           <div class="row or-card">
-              <div class="col-md-2 text-center">
-                <img src="img/uni.png" alt="" style="width: 100px; margin-top: 10px">
+              <div class="col-lg-4 col-md-12 text-center">
+                <img src="img/uni.png" alt="" style="width: 100px; margin-top: 30px">
               </div>
-              <div class="col-md-10 text-left or-divider">
+              <div class="col-lg-8 col-md-12 text-left or-divider">
                 <b class="text-color-pink">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </div>
           </div>
 
           <div class="row or-card">
-              <div class="col-md-2 text-center">
-                <img src="img/changemaker.png" alt="" style="width: 150px; margin-top: 30px">
+              <div class="col-lg-4 col-md-12 text-center">
+                <img src="img/changemaker.png" alt="" style="width: 150px; margin-top: 40px">
               </div>
-              <div class="col-md-10 text-left or-divider">
+              <div class="col-lg-8 col-md-12 text-left or-divider">
                 <b class="text-color-pink">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </div>
           </div>

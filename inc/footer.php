@@ -71,7 +71,7 @@
                     <h4>Stay with us</h4>
                     <hr class="hr-pink">
                     <!-- Contact Form -->
-                    <form id="" data-toggle="validator" data-focus="false">
+                    <form data-toggle="validator" data-focus="false">
                         <div class="form-group">
                             <input type="email" class="form-control-input" id="cname" required>
                             <label class="label-control" for="cname">Your Email</label>

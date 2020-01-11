@@ -202,7 +202,7 @@ padding-left: 20px;
 padding-right: 20px;
 border-bottom: 5px solid rgb(236, 0, 140);
 margin-top: 20px;
-background-color: rgb(217, 217, 217);
+background-color: rgb(242, 240, 240);
 }
 
 .value-card:hover{
@@ -373,14 +373,14 @@ margin-bottom: 50px
 
 .or-divider{
   margin: 1px solid black;
-  padding: 10px
+  padding: 20px
 }
 /* organization section */
 
 /* competition details section */
 .com-card{
   width: 100%;
-  height: 140px;
+  min-height: 140px;
   border-radius: 10px;
   box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
 -webkit-box-shadow: 10px 10px 34px -29px rgba(30,157,237,0.75);
@@ -416,6 +416,10 @@ background-color: rgb(242, 242, 242);
 
 .com-section{
   margin-top: -50px
+}
+
+.com-taz{
+  margin-top: 10px;
 }
 
 .rule h6{
@@ -1289,6 +1293,9 @@ input[type='checkbox'] {
 
 .header #js-rotating {
 	color: rgb(236, 0, 140);
+  padding: 0px 10px 0px 10px;
+  border-radius: 10px;
+  background-color: white;
 }
 
 .header .p-large {
@@ -1818,7 +1825,9 @@ input[type='checkbox'] {
 }
 
 .ready-text{
-  margin-top: 50px
+  margin-top: 50px;
+  padding-left: 20px;
+  border-left: 1px solid rgb(236, 0, 140);
 }
 
 .wild-text{

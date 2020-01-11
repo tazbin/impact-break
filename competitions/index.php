@@ -62,10 +62,10 @@ include '../inc/header.php';
               <div class="col-md-4 col-sm-12">
                 <div class="com-card">
                   <div class="row">
-                    <div class="col-4 text-right com-icon">
+                    <div class="col-lg-4 col-md-12 text-center com-icon">
                       <i class="fas fa-map-marker-alt fa-7x ml-auto"></i>
                     </div>
-                    <div class="col-8">
+                    <div class="col-lg-8 col-md-12 com-taz">
                       <h5>Cuncon, Mexico</h5>
                       <hr>
                       <h5>Dead Sea, Jordan</h5>
@@ -77,10 +77,10 @@ include '../inc/header.php';
               <div class="col-md-4 col-sm-12">
                 <div class="com-card">
                   <div class="row">
-                    <div class="col-4 text-right com-icon">
+                    <div class="col-lg-4 col-md-12 text-center com-icon">
                       <i class="far fa-calendar-alt fa-7x ml-auto"></i>
                     </div>
-                    <div class="col-8">
+                    <div class="col-lg-8 col-md-12 com-taz">
                       <h5>Cuncon: 7-8 May</h5>
                       <hr>
                       <h5>Dead Sea: 28-31 May</h5>
@@ -92,13 +92,13 @@ include '../inc/header.php';
               <div class="col-md-4 col-sm-12">
                 <div class="com-card">
                   <div class="row">
-                    <div class="col-4 text-right com-icon">
+                    <div class="col-lg-4 col-md-12 text-center com-icon">
                       <i class="far fa-clock fa-7x ml-auto"></i>
                     </div>
-                    <div class="col-8">
-                      <h5>Cuncon: 14:00 GTM</h5>
+                    <div class="col-lg-8 col-md-12 com-taz">
+                      <h5>Cuncon: 14:00</h5>
                       <hr>
-                      <h5>Dead Sea: 16:00 GTM</h5>
+                      <h5>Dead Sea: 16:00</h5>
                     </div>
                   </div>
                 </div>

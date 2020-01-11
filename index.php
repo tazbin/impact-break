@@ -11,7 +11,7 @@ include 'inc/header.php';
                     <div class="col-lg-6">
                         <div class="text-container" style="margin-top: 20px">
                           <img class="img-fluid" src="img/impact-break.png" alt="alternative">
-                            <h1>A JOURNEY FOR <span id="js-rotating">FUN, INSPRIRATION, ACTION</span></h1>
+                            <h1>AN EXCITING JOURNEY FOR <span id="js-rotating">FUN, INSPRIRATION, ACTION</span></h1>
                             <hr style="border-color: white">
                             <p class="p-large"> <i>See you in MAY 2020 | Mexico & Jordan</i> </p>
                             <a class="btn-solid-rg-header animated pulse infinite" href="#your-link">REGISTER NOW</a>
@@ -57,13 +57,13 @@ include 'inc/header.php';
                     <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
                         <div class="container">
                             <div class="row text-about text-color-dark">
-                              <div class="col-md-10 border-left-about">
+                              <div class="col-lg-10  border-left-about">
                                 <i>
                                   Lorem ipsum dolor sit amet, <b>consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <hr>
                                   1500+ Lorem <i class="text-color-pink">ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</i> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru
                                 </i>
                               </div>
-                              <div class="col-md-2 icon-off">
+                              <div class="col-lg-2  icon-off">
                                 <i class="far fa-comment-alt fa-10x text-color-pink"></i>
                               </div>
                             </div> <!-- end of row -->
@@ -75,10 +75,10 @@ include 'inc/header.php';
                     <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
                         <div class="container">
                           <div class="row text-about text-color-dark">
-                            <div class="col-md-2 icon-off">
+                            <div class="col-lg-2 icon-off">
                               <i class="far fa-file-alt fa-10x text-color-pink"></i>
                             </div>
-                            <div class="col-md-10 border-right-about">
+                            <div class="col-lg-10 border-right-about">
                               <i>
                                 <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                                 <hr>
@@ -94,14 +94,14 @@ include 'inc/header.php';
                     <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
                         <div class="container">
                           <div class="row text-about text-color-dark">
-                            <div class="col-md-10 border-left-about">
+                            <div class="col-lg-10 border-left-about">
                               <i>
                                 <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</b> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                 <hr>
                                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <i class="text-color-pink">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </i>
                               </i>
                             </div>
-                            <div class="col-md-2 icon-off">
+                            <div class="col-lg-2 icon-off">
                               <i class="far fa-user fa-10x text-color-pink"></i>
                             </div>
                           </div> <!-- end of row -->
@@ -158,7 +158,7 @@ include 'inc/header.php';
                 <div class="value-card">
                   <div class="row">
                     <div class="col-6">
-                      <h1>40,000+</h1>
+                      <h1>40K</h1>
                     </div>
                     <div class="col-6 text-right value-icon">
                       <i class="fas fa-globe fa-3x"></i>
@@ -178,7 +178,7 @@ include 'inc/header.php';
                       <i class="fas fa-hourglass-half fa-3x"></i>
                     </div>
                   </div>
-                  <h5>Workshops hours given by CEOs and rockstar speakers</h5>
+                  <h5>Workshops hours by CEOs and rockstar speakers</h5>
                 </div>
               </div>
 
@@ -186,7 +186,7 @@ include 'inc/header.php';
                 <div class="value-card">
                   <div class="row">
                     <div class="col-6">
-                      <h1>1,200+</h1>
+                      <h1>1.2K</h1>
                     </div>
                     <div class="col-6 text-right value-icon">
                       <i class="fas fa-graduation-cap fa-3x"></i>
@@ -200,7 +200,7 @@ include 'inc/header.php';
                 <div class="value-card">
                   <div class="row">
                     <div class="col-6">
-                      <h1>1,500+</h1>
+                      <h1>1.5K</h1>
                     </div>
                     <div class="col-6 text-right value-icon">
                       <i class="fas fa-users fa-3x"></i>
@@ -214,13 +214,13 @@ include 'inc/header.php';
                 <div class="value-card">
                   <div class="row">
                     <div class="col-6">
-                      <h1>3,000+</h1>
+                      <h1>3K+</h1>
                     </div>
                     <div class="col-6 text-right value-icon">
                       <i class="fas fa-trophy fa-3x"></i>
                     </div>
                   </div>
-                  <h5>USD in prizes and compititions</h5>
+                  <h5>USD amount in prizes and compititions</h5>
                 </div>
               </div>
 
@@ -321,7 +321,7 @@ include 'inc/header.php';
         <div class="container">
             <div class="row">
               <div class="col-lg-6">
-                  <div class="image-container">
+                  <div class="image-container text-center">
                       <img class="img-fluid ready-img" src="img/ahmed2.jpg" alt="alternative">
                   </div> <!-- end of img-container -->
               </div> <!-- end of col -->
