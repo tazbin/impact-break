@@ -80,7 +80,7 @@ html {
 
 body, p {
 	color: #f1f1f8;
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat", sans-serif;
 }
 
 .hr-pink{
@@ -430,7 +430,8 @@ background-color: rgb(242, 242, 242);
   font-size: 14px
 }
 .rule-header{
-  font-size: 30px
+  font-size: 30px;
+  margin-top: 40px;
 }
 
 .rule-section{
@@ -486,12 +487,12 @@ box-shadow: 7px 15px 68px -25px rgba(236,0,140,0.75);
 
 .p-large {
 	color: #f1f1f8;
-	font: 400 1rem/1.5rem "Open Sans", sans-serif;
+	font: 400 1rem/1.5rem "Montserrat", sans-serif;
 }
 
 .p-small {
 	color: #f1f1f8;
-	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
+	font: 400 0.75rem/1.25rem "Montserrat", sans-serif;
 }
 
 .p-heading {
@@ -561,7 +562,7 @@ a.white {
 }
 
 .testimonial-text {
-	font: italic 400 1rem/1.5rem "Open Sans", sans-serif;
+	font: italic 400 1rem/1.5rem "Montserrat", sans-serif;
 }
 
 .testimonial-author {
@@ -752,7 +753,7 @@ a.white {
 	left: 1.375rem;
 	color: #f1f1f8;
 	opacity: 1;
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat", sans-serif;
 	cursor: text;
 	transition: all 0.2s ease;
 }
@@ -785,7 +786,7 @@ a.white {
 	border-radius: 0.25rem;
 	background-color: #413d52;
 	color: #f1f1f8;
-	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.875rem "Montserrat", sans-serif;
 	transition: all 0.2s ease;
 	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
@@ -839,7 +840,7 @@ select::-ms-expand {
 	border-radius: 0.25rem;
 	background-color: #413d52;
 	color: #f1f1f8;
-	font: 400 0.875rem/1.75rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.75rem "Montserrat", sans-serif;
 	transition: all 0.2s ease;
 }
 
@@ -857,7 +858,7 @@ select::-ms-expand {
 }
 
 .checkbox {
-	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
+	font: 400 0.75rem/1.25rem "Montserrat", sans-serif;
 }
 
 input[type='checkbox'] {
@@ -899,7 +900,7 @@ input[type='checkbox'] {
 	display: block;
 	margin-bottom: 0;
 	color: #f1f1f8;
-	font: 400 1.125rem/1rem "Open Sans", sans-serif;
+	font: 400 1.125rem/1rem "Montserrat", sans-serif;
   /* border-radius: 10px */
 }
 
@@ -1829,7 +1830,13 @@ input[type='checkbox'] {
 }
 
 .ready-text{
-  margin-top: 50px;
+  margin-top: -20px;
+  padding-left: 20px;
+  border-left: 1px solid rgb(236, 0, 140);
+}
+
+.team-text{
+  margin-top: 40px;
   padding-left: 20px;
   border-left: 1px solid rgb(236, 0, 140);
 }
@@ -1875,7 +1882,7 @@ input[type='checkbox'] {
 .counter #counter .counter-info {
 	margin-bottom: 0;
 	color: #00c9db;
-	font: 400 0.875rem/1.25rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.25rem "Montserrat", sans-serif;
 	vertical-align: middle;
 }
 

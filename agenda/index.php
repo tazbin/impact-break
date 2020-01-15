@@ -4,7 +4,7 @@ include '../inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header" style="background-image: url('img/agen.png'); background-position: center">
+    <header id="header" class="header" style="background-image: url('img/agen.webp'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">
@@ -189,13 +189,13 @@ include '../inc/header.php';
 
               <div class="row">
                 <div class="col-12">
-                  <img src="img/agenda2.jpg" class="agenda-img" alt="">
+                  <img src="img/agenda2.webp" class="agenda-img" alt="">
                 </div>
                 <div class="col-6">
-                  <img src="img/agenda1.jpg" style="width: 100%" class="agenda-img" alt="">
+                  <img src="img/agenda1.webp" style="width: 100%" class="agenda-img" alt="">
                 </div>
                 <div class="col-6">
-                  <img src="img/agenda3.jpg" style="width: 100%" class="agenda-img" alt="">
+                  <img src="img/agenda3.webp" style="width: 100%" class="agenda-img" alt="">
                 </div>
               </div>
 

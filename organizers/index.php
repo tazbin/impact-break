@@ -4,7 +4,7 @@ include '../inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header" style="background-image: url('img/organizers.png'); background-position: center">
+    <header id="header" class="header" style="background-image: url('img/organizers.webp'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">

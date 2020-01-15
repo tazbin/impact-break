@@ -4,7 +4,7 @@ include 'inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header" style="background-image: url('img/2.png'); background-position: center">
+    <header id="header" class="header" style="background-image: url('img/2.webp'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">
@@ -123,10 +123,10 @@ include 'inc/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-md-6 vn-taz">
-                    <img src="img/venue1.png" class="venue-img d-flex" alt="">
+                    <img src="img/venue1.webp" class="venue-img d-flex" alt="">
                 </div> <!-- end of col -->
                 <div class="col-md-6">
-                    <img src="img/venue2.png" class="venue-img" alt="">
+                    <img src="img/venue2.webp" class="venue-img" alt="">
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -326,7 +326,7 @@ include 'inc/header.php';
                   </div> <!-- end of img-container -->
               </div> <!-- end of col -->
                 <div class="col-lg-6">
-                    <div class="ready-text">
+                    <div class="team-text">
                         <h1 class="text-color-pink">
                           Team up <br>
                           Get ready <br>

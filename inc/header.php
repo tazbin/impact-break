@@ -24,8 +24,9 @@
     <title>Impact Break - Hult Prize</title>
 
     <!-- Styles -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
     <link href="<?php echo BASE_URL ?>/css/bootstrap.css" rel="stylesheet">
     <link href="<?php echo BASE_URL ?>/css/fontawesome-all.css" rel="stylesheet">
     <link href="<?php echo BASE_URL ?>/css/swiper.css" rel="stylesheet">
@@ -56,7 +57,7 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.php"><img src="images/logo.svg" alt="alternative"></a> -->
-        <a class="navbar-brand logo-image" href="<?php echo BASE_URL ?>/index.php"><img src="<?php echo BASE_URL ?>/img/impact-logo.png" alt="Impact-Break"></a>
+        <a class="navbar-brand logo-image" href="<?php echo BASE_URL ?>/"><img src="<?php echo BASE_URL ?>/img/impact-logo.png" alt="Impact-Break"></a>
 
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">

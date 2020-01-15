@@ -4,7 +4,7 @@ include '../inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header" style="background-image: url('img/can.png'); background-position: center">
+    <header id="header" class="header" style="background-image: url('img/can.webp'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">
@@ -30,7 +30,7 @@ include '../inc/header.php';
             <div class="row">
               <div class="col-lg-6">
                   <div class="image-container">
-                      <img class="img-fluid ready-img" src="img/cancun-side.jpg" alt="alternative">
+                      <img class="img-fluid ready-img" src="img/cancun-side.webp" alt="alternative">
                   </div> <!-- end of img-container -->
               </div> <!-- end of col -->
                 <div class="col-lg-6">
@@ -42,24 +42,24 @@ include '../inc/header.php';
                         <h3 class="text-color-pink"> <img src="img/mexico-round.png" alt="" style="width: 40px; "> Mexico</h3>
                         <hr class="hr-pink">
                         <i class="text-color-pink">
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                         </i>
                         <hr class="hr-pink">
-                        <h4 class="text-color-pink">
+                        <h5 class="text-color-pink">
                           Travel Style: <text class="text-color-dark"> Active </text>
-                        </h4>
+                        </h5>
                         <hr class="hr-pink">
-                        <h4 class="text-color-pink">
+                        <h5 class="text-color-pink">
                           Service Style: <text class="text-color-dark"> Standard </text>
-                        </h4>
+                        </h5>
                         <hr class="hr-pink">
-                        <h4 class="text-color-pink">
+                        <h5 class="text-color-pink">
                           Trip Style: <text class="text-color-dark"> Small Group </text>
-                        </h4>
+                        </h5>
                         <hr class="hr-pink">
-                        <h6 class="text-color-dark">
+                        <!-- <h6 class="text-color-dark">
                           Scheduled on 7th - 10th May
-                        </h6> <br>
+                        </h6> <br> -->
                         <a class="btn-solid-rg-header page-scroll" href="#your-link">REGISTER NOW</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -114,7 +114,7 @@ include '../inc/header.php';
             <div class="row program">
 
               <div class="col-md-6 program-card-1">
-                <img src="img/cancun-four.png" class="program-img" alt="">
+                <img src="img/cancun-four.webp" class="program-img" alt="">
               </div>
 
               <div class="col-md-6">

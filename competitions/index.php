@@ -4,7 +4,7 @@ include '../inc/header.php';
  ?>
 
     <!-- Header -->
-    <header id="header" class="header" style="background-image: url('img/com.png'); background-position: center">
+    <header id="header" class="header" style="background-image: url('img/com.webp'); background-position: center">
         <div class="header-content">
             <div class="container">
                 <div class="row">
@@ -46,7 +46,7 @@ include '../inc/header.php';
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid wild-img" src="img/wild.png" alt="alternative">
+                        <img class="img-fluid wild-img" src="img/wild.webp" alt="alternative">
                     </div> <!-- end of img-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -55,7 +55,7 @@ include '../inc/header.php';
     <!-- wild card section -->
 
     <!-- competition details -->
-    <div id="details" style="margin-top: 0px; margin-bottom: 100px">
+    <div id="" style="margin-top: 0px; margin-bottom: 100px">
         <div class="container">
             <div class="row com-section">
 
