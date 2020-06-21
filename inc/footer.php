@@ -96,7 +96,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <p class="p-small">Copyright © Impact Break | Developed by <a href="http://tazbinur.info">Tazbinur Rahaman</a></p>
+                <p class="p-small" style="font-size: 10px">Copyright © Impact Break | Developed by <a href="http://tazbinur.info">Tazbinur Rahaman </a> | Frontend 80% modified & self-customized from <b>Leno - Mobile App HTML Landing Page Template by Inovatik</b> </p>
             </div>
         </div>
     </div>
